@@ -1,2 +1,7 @@
-# Estudo-com-angular
-Este repositório possui meus estudos sobre Angular 4 à 7 e ainda, meus testes do Git em uma distribuição GNU/Linux, no caso, Debian.
+# typescript-git
+Repositório responsável por manter as aplicações desenvolvidas em typescript aprendidas.
+
+Cada pasta possui diferentes conteúdos separados por módulos.
+
+# Módulos disponíveis:
+> 01: Básico: App inicial, classes, interfaces e funções.
